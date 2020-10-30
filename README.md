@@ -6,6 +6,6 @@ Check out my trash website [https://damonon.yt](https://damonon.yt)
 
 stupid api at [https://api.damonon.yt](https://api.damonon.yt)
 
-**Current Dev Positions**
-Lead Developer at [KeyFM](https://keyfm.net)
+**Current Dev Positions**  
+Lead Developer at [KeyFM](https://keyfm.net)  
 Founder at [DDI Development](https://ddidevelopment.com)
