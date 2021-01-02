@@ -7,7 +7,7 @@ Check out my trash website [https://damonon.yt](https://damonon.yt)
 stupid api at [https://api.damonon.yt](https://api.damonon.yt)
 
 **Current Dev Positions**  
-Lead Developer at [KeyFM](https://keyfm.net)  
+Owner at [Aqua Radio](https://itsaqua.net)  
 Founder at [DDI Development](https://ddidevelopment.com)  
 Owner at [Quality Code Inc](https://qci.lol)  
 Founder at [RadioSpy](https://api.radiospy.pw)  
