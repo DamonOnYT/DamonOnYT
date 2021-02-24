@@ -7,10 +7,10 @@ Check out my trash website [https://damonon.yt](https://damonon.yt)
 stupid api at [https://api.damonon.yt](https://api.damonon.yt)
 
 **Current Dev Positions**  
-Owner at [Aqua Radio](https://itsaqua.net)  
 Founder at [DDI Development](https://ddidevelopment.com)  
-Owner at [Quality Code Inc](https://qci.lol)  
 Founder at [RadioSpy](https://api.radiospy.pw)  
+Founder of [Aqua Radio](https://itsaqua.net)  
+Owner at [Quality Code Inc](https://qci.lol)  
 Developer at [RadioPeeker](https://radiopeeker.com)  
 
 
