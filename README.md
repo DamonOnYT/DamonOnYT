@@ -7,5 +7,5 @@ Check out my trash website [https://damonon.yt](https://damonon.yt)
 **Current Positions**  
 Founder at [DDI Development](https://ddidevelopment.com)  
 Director at [EmergencyOzz](https://discord.gg/EmergencyOzz)   
-Director for Sydney Operations at [Xonos.Host](https://xonos.host)  
+Director of [LiftUp Hosting](https://liftuphosting.com.au)
 Founder of [Aqua Radio](https://itsaqua.net)  
